@@ -1,0 +1,42 @@
+﻿Sarah and Aaron
+CS5
+Final Project Submission
+5/4/21
+
+
+Game Description: 
+* How to play:
+   * Run final_project
+   * Create a variable = to hangman() example: g = hangman()
+   * Do g.playGame() to play the game & run the menu
+   * Choose the choice from the menu you’d like. To play the game choose 1
+* How our AI plays:
+   * When you run playGame(), the AI runs with it since it is called in the playGame()
+   * There are three levels of AI difficulty that the player can choose from
+      * Easy: the computer randomly guesses letters. 
+      * Hard: the computer guesses higher probability letters. 
+      * Expert: the computer knows the word! 
+
+
+
+
+* Results:
+* We successfully created a working hangman with an AI that has three levels of difficulty
+* We grew as programmers + made our first game ever!!!
+* Learned what a global variable was and how to use it in a class!!!!!! 
+* Learned how frustrating debugging can be 
+   * In the last week we spent 10 hours debugging :(( 
+
+
+
+
+* Difficult Parts: 
+   * We particularly struggled with implementing the AI as the regular hangman game was completed by the deadline for the milestone
+   * We spent our last week and many hard working hours getting the AI to work correctly 
+   * We also spent time cleaning up/rewriting our code with the help of grutoring
+      * This allowed us to get cleaner code that would get the hangman game to run correctly
+
+
+* If we had more time: 
+   * We would work on figuring out easier and less tedious ways to implement what we did. 
+   * We would add more levels of AI difficulty and possibly different variations of the hangman game.
