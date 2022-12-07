@@ -1,11 +1,3 @@
-#Aaron Oñate and Sarah Fullerton
-#CS5
-#Final Finale Submission
-#5/4/21
-
-
-
-
 from bigD import *   #import the dictionary
 import random
 import string
